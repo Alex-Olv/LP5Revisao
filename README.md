@@ -1,2 +1,2 @@
 # LP5Revisao
-aprendendo o uso de Github desktop. Aula de LP5
+aprendendo o uso de Github Desktop. Aula de LP5
